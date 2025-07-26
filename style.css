@@ -98,4 +98,8 @@ h3 + p {
         width: 30%;
     }
     
+    h3 {
+        font-size: 1.7rem;
+    }
+    
 }
